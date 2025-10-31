@@ -13,7 +13,7 @@ A single AND gate.
 
 ## How to test
 
-Try all combinatins of two bits.
+Try all combinations of two bits.
 
 ## External hardware
 
